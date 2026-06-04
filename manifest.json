@@ -1,0 +1,10 @@
+{
+  "name": "天大科技园 · 企业选址平台",
+  "short_name": "天大科技园",
+  "description": "天大科技园五大园区招商平台",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1a6fd4",
+  "background_color": "#ffffff",
+  "icons": []
+}
